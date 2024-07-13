@@ -1,0 +1,7 @@
+Java Launcher: /usr/local/sdkman/candidates/java/17.0.11-ms/bin/java
+Arguments: '--inJar, /home/codespace/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.4-49.1.4/forge-1.20.4-49.1.4-injected.jar, --outJar, /home/codespace/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.4-49.1.4_mapped_official_1.20.4/forge-1.20.4-49.1.4_mapped_official_1.20.4.jar, --logFile, accesstransform.log, --atFile, /workspaces/Zooldob/build/_atJar_4/parent_at.cfg'
+Classpath:
+ - /home/codespace/.gradle/caches/forge_gradle/maven_downloader/net/minecraftforge/accesstransformers/8.2.0/accesstransformers-8.2.0-fatjar.jar
+Working directory: /workspaces/Zooldob/build/_atJar_4
+Main class: net.minecraftforge.accesstransformer.TransformerProcessor
+====================================
